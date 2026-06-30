@@ -1,0 +1,67 @@
+Наводненията в Хърватия взеха човешки жертви
+					24/09/2010
+					Река Сава в Хърватия достигна най-високото си ниво от 50 години насам, като заля села в предградие на Загреб. 
+					Снимки от Петър Кос от Загреб -- 24/09/10
+ 
+					
+						Наводненията заливат къщи и стопанства в селата край Загреб. От края на миналата седмица са наводнени Велика Горица и Сисак на югоизток от Загреб. Правителството обяви извънредно положение в редица хърватски села и изпрати военни части да помагат при евакуацията на хората.
+						 // import of inline gallery script 
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/HEADLINEphoto.jpg';
+			item['caption'] = "Селата на югоизток от Загреб са залети от пороите от края на миналата седмица.";
+			photo_gallery[1] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto1.jpg';
+			item['caption'] = "Нивото на най-голямата река в Хърватия, Сава, достигна 463 см и наводни села край Загреб.";
+			photo_gallery[2] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto3.jpg';
+			item['caption'] = "Залята детска площадка в Рибница, близо до Загреб.";
+			photo_gallery[3] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto4.jpg';
+			item['caption'] = "Куче на покрива на къщичката си в Рибница.";
+			photo_gallery[4] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto5.jpg';
+			item['caption'] = "Хора бягат от наводнените си домове в Рибница.";
+			photo_gallery[5] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto6.jpg';
+			item['caption'] = "Хърватската армия помага при евакуацията.";
+			photo_gallery[6] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto7.jpg';
+			item['caption'] = "Мъж носи хляб на възрастни хора в Рибница.";
+			photo_gallery[7] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto8.jpg';
+			item['caption'] = "Спасители доставят вода и други продукти.";
+			photo_gallery[8] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto9.jpg';
+			item['caption'] = "Спасители носят храня на изолирани семейства в Рибница.";
+			photo_gallery[9] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto10.jpg';
+			item['caption'] = "Пълнене на чували с пясък за дигите.";
+			photo_gallery[10] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto11.jpg';
+			item['caption'] = "Извънредно положение бе обявено в няколко хърватски села.";
+			photo_gallery[11] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100925/FLOODphoto12.jpg';
+			item['caption'] = "В Хърватия от време на време стават наводнения, но това е най-тежкото от десетилетия насам.";
+			photo_gallery[12] = item;

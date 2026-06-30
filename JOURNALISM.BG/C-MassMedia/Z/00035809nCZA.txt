@@ -1,0 +1,110 @@
+Рамазан на Балканите
+					27/08/2010
+					Над 83 милиона мюсюлмани празнуват свещения месец рамазан на Балканите.
+					
+						Според мюсюлманите рамазан е времето, когато трябва да разбереш потребностите на другите и да споделиш страданието или щастието. През месеца се акцентира на постенето и избягването на конфликти. По време на рамазана се посещават също роднини и близки, за да се отбележат заедно с любимите хора започващите по залез слънце празненства.
+						 // import of inline gallery script 
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto1.jpg';
+			item['caption'] = "Мюсюлмани отслужват вечерна молитва по време на рамазан в Прищина. [Лаура Хасани/SETimes]";
+			photo_gallery[1] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto2.jpg';
+			item['caption'] = "Хиляди хора в Косово се молят всеки ден по време на рамазан. [Лаура Хасани/SETimes]";
+			photo_gallery[2] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto3.jpg';
+			item['caption'] = "Вечеря ифтар в Прищина. [Лаура Хасани/SETimes]";
+			photo_gallery[3] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto4.jpg';
+			item['caption'] = "Косовски мюсюлмани прекъсват ежедневния си пост. [Лаура Хасани/SETimes]";
+			photo_gallery[4] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto5.jpg';
+			item['caption'] = "Мюсюлмани се молят пред джамията „Етем Бей” на площад Скендербег в Тирана. [Крешник Ходжали/SETimes]";
+			photo_gallery[5] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto6.jpg';
+			item['caption'] = "Албански мюсюлмани се молят по време на рамазан. [Крешник Ходжали/SETimes]";
+			photo_gallery[6] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto7.jpg';
+			item['caption'] = "Мюсюлмански жени се молят по време на рамазан в Тирана. [Крешник Ходжали/SETimes]";
+			photo_gallery[7] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto9.jpg';
+			item['caption'] = "Хиляди мюсюлмани в Босна и Херцеговина празнуват рамазан. [Юсуф Рамаданович/SETimes]";
+			photo_gallery[8] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto10.jpg';
+			item['caption'] = "Босненски пекар прави хляб за празника рамазан. [Бедрана Калетович/SETimes]";
+			photo_gallery[9] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto11.jpg';
+			item['caption'] = "Ресторантите в Босна предлагат различни ястия по случай рамазан. [Юсуф Рамаданович/SETimes]";
+			photo_gallery[10] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto12.jpg';
+			item['caption'] = "В Сараево се провеждат концерти по случай рамазан. [Бедрана Калетович/SETimes]";
+			photo_gallery[11] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto13.jpg';
+			item['caption'] = "Турски поклонници посещават „Синята джамия” на пл. \'Султан Ахмед\'. [Моник Жак/SETimes]";
+			photo_gallery[12] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto14.jpg';
+			item['caption'] = "Хиляди мюсюлмани в Турция прекарват нощта на рамазан в джамии. [Моник Жак/SETimes]";
+			photo_gallery[13] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto15.jpg';
+			item['caption'] = "Мюсюлмани посещават джамията „Еюп Султан” в Истанбул, за да прекъснат постите по случай рамазан. [Моник Жак/SETimes]";
+			photo_gallery[14] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto16.jpg';
+			item['caption'] = "Македонски мюсюлмани се молят в джамията „Иса Бей” в Скопие. [Томислав Георгиев/SETimes]";
+			photo_gallery[15] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto17.jpg';
+			item['caption'] = "Македонски мюсюлмани се молят по време на рамазан. [Томислав Георгиев/SETimes]";
+			photo_gallery[16] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto18.jpg';
+			item['caption'] = "Румънски мюсюлмани отслужват вечерна молитва по случай рамазан в Букурещ. [Габриел Петреску/SETimes]";
+			photo_gallery[17] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto19.jpg';
+			item['caption'] = "Мюсюлмани в Румъния се молят по време на рамазан. [Габриел Петреску/SETimes]";
+			photo_gallery[18] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto20.jpg';
+			item['caption'] = "Джамията в Белград приема стотици вярващи по време на рамазан. [Никола Барбутов/SETimes]";
+			photo_gallery[19] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto21.jpg';
+			item['caption'] = "Сръбски мюсюлмани празнуват рамазан. [Никола Барбутов/SETimes]";
+			photo_gallery[20] = item;
+		
+			var item = new Array;
+			item['source'] = 'images/special/photo_essay/20100827/RAMADANphoto22.jpg';
+			item['caption'] = "Сръбски мюсюлмани се събират, за да участват в службата по случай рамазан в белградска джамия. [Никола Барбутов/SETimes]";
+			photo_gallery[21] = item;
