@@ -1,4 +1,9 @@
 # Information search and retrieval 
+
+## Environment SetUp
+In the file tii.yml are the needed packages and libraries for running the projects. Annaconda for Python was used for creating virtual environments.
+
+
 ## General for NMT
 
 Transformer model for neural machine translation (and other small projects) as part of the elective subject "Information search and retrieval.
