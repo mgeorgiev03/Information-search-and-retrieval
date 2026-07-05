@@ -11,6 +11,9 @@ Application of deep machine learning" (Търсене и извличане на
 
 There are two version of the model in the repository. NMT contains olny the trained transformer model, while the BPE_BeamSearch also has BytePair Encoding and Beam Search optimisations. The models translate bulgarian to english. Both projects are written in Python with the PyTorch package for optimised learning algorithms. 
 
+Model perplexity:  14.883834030584168
+Corpus BLEU:  37.730389943302676
+
 ## Data  
  The two directories contain the 'en_bg_data' which stores the learning data in both bulgarian and english. 180000 pairs of sentences for training in train.en and train.bg, 1000 pairs for development dev.en and dev.bg, and 6000 pairs for testing in test.en and test.bg. 
 
@@ -38,6 +41,9 @@ The trained models' files are too big to be uploaded to Github.
  ### Beam Search
 
  The Beam Search optimisation has a default beam size 3. It is used to determine the most likely ouput sequence from the top k, where k is the beam size.
+
+ Model perplexity:  10.06999109159907
+ Corpus BLEU:  37.75035243850249
 
 
 ## Hyperparameters 
